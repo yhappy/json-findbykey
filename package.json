@@ -1,0 +1,18 @@
+{
+  "name": "json-findbykey",
+  "version": "1.0.0",
+  "description": "find values of from unknown structured json by given key name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSON",
+    "duplicate",
+    "property",
+    "key",
+    "array"
+  ],
+  "author": "yhappy",
+  "license": "ISC"
+}
